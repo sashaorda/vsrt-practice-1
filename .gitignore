@@ -1,0 +1,25 @@
+# Исполняемые файлы
+/welcome
+/user_input
+*.out
+*.exe
+
+# Объектные файлы
+*.o
+*.obj
+
+# Временные файлы
+tempCodeRunnerFile.c
+*~
+*.swp
+*.swo
+.DS_Store
+
+# Не игнорируем нужные файлы
+!*.c
+!*.h
+!README*
+!*.md
+!Makefile
+!*.txt
+!LICENSE
